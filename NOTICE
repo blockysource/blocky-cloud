@@ -1,0 +1,11 @@
+This product includes code from the Go Cloud Project:
+    Licensed under the Apache License, Version 2.0 (the "License")
+    Copyright 2018-2019 The Go Cloud Development Kit Authors
+
+This product includes software derivatives from the https://github.com/erizocosmico/go-bouncespy project with the license:
+    The MIT License (MIT)
+    Copyright (c) 2015 Miguel Molina
+
+This product includes software derivatives from the https://github.com/go-gomail/gomail project with the license:
+    The MIT License (MIT)
+    Copyright (c) 2014 Alexandre Cesaro

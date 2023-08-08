@@ -1,0 +1,7 @@
+
+{{define "from_t"}}{{if or .from.name .from.surname}}"{{.from.name}} {{.from.surname}}" {{end}}{{if .from.email}}<{{.from.email}}>{{end}}{{end}}
+
+{{define "subject_t"}}{{if .subject}}This is subject {{.subject}}{{end}}{{end}}
+
+{{define "html_t"}}This is an example with {{.body}}{{end}}
+
